@@ -1,26 +1,32 @@
 <h1 align="center">Hi 👋, I'm Akash Barik</h1>  
 <h3 align="center">Passionate Frontend Developer | React Enthusiast</h3>  
 
-<p align="right">   
-  <a href="https://github.com/akash01974?tab=followers">  
-    <img src="https://img.shields.io/github/followers/akash01974?color=green&logo=github&style=flat" alt="Followers" />  
-  </a>  
-  <img src="https://komarev.com/ghpvc/?username=akash01974&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />   
-</p>  
-
-
-### 🌐 Connect with Me:  
-<p align="center">  
-  <a href="https://www.linkedin.com/in/akash-barik-06245634a/" target="_blank">  
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />  
-  </a>  
-  <a href="https://instagram.com/akash.barik001" target="_blank">  
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />  
-  </a>  
-  <a href="mailto:akashbarik@example.com" target="_blank">  
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="40" />  
-  </a>  
-</p>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h3>🌐 Connect with Me:</h3>
+      <p>
+        <a href="https://www.linkedin.com/in/akash-barik-06245634a/" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+        </a>
+        <a href="https://instagram.com/akash.barik001" target="_blank">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+        </a>
+        <a href="mailto:akashbarik@example.com" target="_blank">
+          <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="40" />
+        </a>
+      </p>
+    </td>
+    <td align="right">
+      <p>
+        <a href="https://github.com/akash01974?tab=followers">
+          <img src="https://img.shields.io/github/followers/akash01974?color=grey&logo=github&style=flat" alt="Followers" />
+        </a>
+        <img src="https://komarev.com/ghpvc/?username=akash01974&label=Profile%20Views&color=grey&style=flat" alt="Profile Views" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -34,13 +40,6 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akash01974&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Akash Barik's GitHub Stats" width="48%" />  
-</p>
-
----
-
-## 🔥 Current Streak  
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=akash01974&theme=dark&hide_border=false" alt="Current Streak" width="48%" />  
 </p>
 
 ---
