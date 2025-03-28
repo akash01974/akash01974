@@ -6,7 +6,7 @@
     <span style="background-color: #007bff; border-radius: 5px; padding: 5px 15px; color: white;">Followers: 1</span>  
   </a>  
   <span style="background-color: #007bff; border-radius: 5px; padding: 5px 15px; color: white; margin-left: 10px;">Profile Views: 127</span>  
-</p>  
+</p>
 
 ### 🌐 Connect with Me:  
 <p align="center">  
