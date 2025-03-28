@@ -118,8 +118,8 @@
 
 <br>
 
-<p align="center">  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />  
+<p align="center">
+  <img src="https://readme-quote.vercel.app/api?theme=light" alt="Random Dev Quote" width="90%" />
 </p>  
 
 <br>
