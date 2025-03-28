@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Barik</h1>  
 <h3 align="center">Passionate Frontend Developer | React Enthusiast</h3>  
 
+### 🌐 Connect with Me:  
 <p align="center">  
   <a href="https://www.linkedin.com/in/akash-barik-06245634a/" target="_blank">  
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />  
@@ -9,10 +10,12 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />  
   </a>  
   <a href="mailto:akashbarik@example.com" target="_blank">  
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="Gmail" height="30" width="40" style="filter: invert(1);" />  
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="40" />  
   </a>  
 </p>
 
+
+---
 
 ## 🛠️ Languages and Tools  
 <p align="center">  
