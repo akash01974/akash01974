@@ -6,11 +6,11 @@
 
 <p align="center">
   <a href="https://github.com/akash01974?tab=followers">  
-    <img src="https://img.shields.io/github/followers/akash01974?color=grey&logo=github&style=flat&labelColor=2D333B" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/akash01974?color=blue&logo=github&style=flat&labelColor=white" alt="Followers" />
   </a>  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/akash01974">
-    <img src="https://img.shields.io/badge/Profile%20Views-172-grey?style=flat&logo=github&labelColor=2D333B" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Profile%20Views-172-blue?style=flat&logo=github&labelColor=white" alt="Profile Views" />
   </a>
 </p>  
 
@@ -71,7 +71,7 @@
 <br>
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=akash01974&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Akash Barik's GitHub Stats" width="48%" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=akash01974&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" alt="Akash Barik's GitHub Stats" width="48%" />  
 </p>  
 
 <br>
@@ -83,7 +83,7 @@
 <br>
 
 <p align="center">  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=akash01974&theme=dark&hide_border=false" alt="Current Streak" width="48%" />  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=akash01974&theme=transparent&hide_border=false" alt="Current Streak" width="48%" />  
 </p>  
 
 <br>
@@ -95,7 +95,7 @@
 <br>
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash01974&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash01974&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />  
 </p>  
 
 <br>
@@ -107,7 +107,7 @@
 <br>
 
 <p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=akash01974&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />  
+  <img src="https://github-profile-trophy.vercel.app/?username=akash01974&theme=transparent&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />  
 </p>  
 
 <br>
@@ -119,23 +119,21 @@
 <br>
 
 <p align="center">  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" width="90%"/>  
 </p>  
 
 <br>
 
 ---
-
 
 ## 🔝 Top Contributed Repo  
 
 <br>
 
 <p align="center">  
-  <img src="https://github-contributor-stats.vercel.app/api?username=akash01974&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />  
+  <img src="https://github-contributor-stats.vercel.app/api?username=akash01974&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />  
 </p>  
 
 <br>
 
 ---
-
