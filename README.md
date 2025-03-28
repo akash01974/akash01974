@@ -116,15 +116,9 @@
 
 ## ✍️ Random Dev Quote  
 
-<br>
-
 <p align="center">  
-  <div style="width:100%">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-  </div>
-</p>  
-
-<br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Random Dev Quote" />  
+</p>
 
 ---
 
