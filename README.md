@@ -1,12 +1,14 @@
-![image](https://github.com/user-attachments/assets/c01ee0c9-e2e3-477f-a597-8a5ad3046899)<h1 align="center">Hi 👋, I'm Akash Barik</h1>  
+<h1 align="center">Hi 👋, I'm Akash Barik</h1>  
 <h3 align="center">Passionate Frontend Developer | React Enthusiast</h3>  
 
 <p align="center">
-  <a href="https://github.com/akash01974?tab=Followers">  
+  <a href="https://github.com/akash01974?tab=followers">  
     <img src="https://img.shields.io/github/followers/akash01974?color=grey&logo=github&style=flat&labelColor=20232A" alt="Followers" />
   </a>  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=akash01974&label=Profile%20Views&color=grey&style=flat&labelColor=20232A" alt="Profile Views" />
+  <a href="https://github.com/akash01974">
+    <img src="https://img.shields.io/badge/Profile%20Views-172-grey?style=flat&logo=github&labelColor=20232A" alt="Profile Views" />
+  </a>
 </p>
 
 
