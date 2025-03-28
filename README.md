@@ -4,7 +4,7 @@
 
 <br>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/akash01974?tab=followers">  
     <img src="https://img.shields.io/github/followers/akash01974?color=grey&logo=github&style=flat&labelColor=2D333B" alt="Followers" />
   </a>  
