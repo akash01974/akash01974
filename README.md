@@ -41,11 +41,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" /> 
 </a> 
 
-### 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=akash01974&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-
 ### 🔝 Most Used Languages:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash01974&show_icons=true&theme=dark&layout=compact" alt="Top Languages" />
+
+### 📊 GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=akash01974&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=akash01974&theme=dark&hide_border=false" alt="GitHub Streak" />
 
@@ -56,8 +56,6 @@
 <img src="https://github-contributor-stats.vercel.app/api?username=akash01974&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
 
 ---
-<img src="https://visitcount.itsvg.in/api?id=akash01974&icon=0&color=9" alt="Profile Visit Count"/>
-
 <picture>  
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akash01974/akash01974/output/github-snake-dark.svg" />  
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akash01974/akash01974/output/github-snake.svg" />  
