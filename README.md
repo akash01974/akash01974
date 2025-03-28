@@ -3,9 +3,9 @@
 
 <p align="center" width="100%">  
   <a href="https://github.com/akash01974?tab=followers">  
-    <img src="https://img.shields.io/github/followers/akash01974?color=white&logo=github&style=flat&label=Followers" alt="Followers" style="background-color: #007bff; border-radius: 5px;" align="left"/>  
+    <span style="background-color: #007bff; border-radius: 5px; padding: 5px 15px; color: white;">Followers: 1</span>  
   </a>  
-  <span style="background-color: #007bff; border-radius: 5px; padding: 5px 10px; color: white;">Profile Views: 127</span>  
+  <span style="background-color: #007bff; border-radius: 5px; padding: 5px 15px; color: white; margin-left: 10px;">Profile Views: 127</span>  
 </p>  
 
 ### 🌐 Connect with Me:  
