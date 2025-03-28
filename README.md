@@ -15,7 +15,7 @@
 
 
 ### 🌐 Connect with Me:  
-<p align="left">  
+<p align="center">  
   <a href="https://www.linkedin.com/in/akash-barik-06245634a/" target="_blank">  
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />  
   </a>  
@@ -30,7 +30,7 @@
 ---  
 
 ## 🛠️ Languages and Tools  
-<p align="left"> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" height="40" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=ai" alt="Adobe Illustrator" height="40" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" height="40" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=ai" alt="Adobe Illustrator" height="40" /> </p>
   
 
 ## 📊 GitHub Stats  
