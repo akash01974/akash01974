@@ -7,7 +7,7 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=akash01974&theme=darkhub" alt="akash01974" />
+    <img src="https://github-profile-trophy.vercel.app/?username=akash01974&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="akash01974" />
   </a> 
 </p>
 
@@ -61,9 +61,21 @@
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash01974&show_icons=true&theme=dark&locale=en" alt="akash01974" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash01974&show_icons=true&theme=onedark&hide_border=false&include_all_commits=true&count_private=false" alt="akash01974" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash01974&theme=dark" alt="akash01974" />
+  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=akash01974&theme=onedark&hide_border=false" alt="akash01974" />
 </p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=akash01974&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=akash01974&icon=0&color=9)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
