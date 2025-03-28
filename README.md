@@ -3,11 +3,12 @@
 
 <p align="center">   
   <a href="https://github.com/akash01974?tab=followers">  
-    <img src="https://img.shields.io/github/followers/akash01974?color=grey&logo=github&style=flat" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/akash01974?color=grey&logo=github&style=flat" alt="Followers" height="30" />
   </a>  
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Adds spacing between badges -->
-  <img src="https://komarev.com/ghpvc/?username=akash01974&label=Profile%20Views&color=grey&style=flat" alt="Profile Views" />
+  <span style="display: inline-block; width: 20px;"></span> <!-- Adds more space -->
+  <img src="https://komarev.com/ghpvc/?username=akash01974&label=Profile%20Views&color=grey&style=flat" alt="Profile Views" height="30" />
 </p>
+
 
 
 
