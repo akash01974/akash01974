@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Barik</h1>  
 <h3 align="center">Passionate Frontend Developer | React Enthusiast</h3>  
 
-<p align="right">   
+<p align="left">   
   <a href="https://github.com/akash01974?tab=followers">  
     <img src="https://img.shields.io/github/followers/akash01974?color=green&logo=github&style=flat" alt="Followers" />  
   </a>  
