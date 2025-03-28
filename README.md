@@ -118,9 +118,9 @@
 
 <br>
 
-<p align="center">
-  <img src="https://readme-quote.vercel.app/api?theme=light" alt="Random Dev Quote" width="90%" />
-</p>  
+<p align="center">  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" width="90%"/>  
+</p> 
 
 <br>
 
