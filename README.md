@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Barik</h1>  
-<h3 align="center">Passionate Frontend Developer | React Enthusiast</h3>  
+<h3 align="center">A student with great ambition...</h3> 
 
 ### 🌐 Connect with Me:  
 <p align="center">  
