@@ -43,31 +43,27 @@
   </a> 
 </p>
 
-### 🔝 Most Used Languages:
-<h3 align="center">Top Languages</h3>
+### 🔝 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash01974&show_icons=true&theme=dark&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash01974&show_icons=true&theme=dark&layout=compact" alt="Most Used Languages" />
 </p>
 
-### 📊 GitHub Stats:
-<h3 align="center">GitHub Stats</h3>
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akash01974&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
 </p>
 
-<h3 align="center">GitHub Streak</h3>
+### GitHub Streak
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=akash01974&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ### ✍️ Random Dev Quote
-<h3 align="center">Dev Quote</h3>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
 </p>
 
 ### 🔝 Top Contributed Repo
-<h3 align="center">Top Contributed Repo</h3>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=akash01974&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
 </p>
