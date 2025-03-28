@@ -28,7 +28,7 @@
 
 ## 🛠️ Languages and Tools  
 <p align="left"> <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=figma" alt="Figma" height="40" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=ps" alt="Photoshop" height="40" /> &nbsp;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=ai" alt="Adobe Illustrator" height="40" /> </p>
----  
+  
 
 ## 📊 GitHub Stats  
 <p align="center">  
