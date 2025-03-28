@@ -1,19 +1,12 @@
 <h1 align="center">Hi 👋, I'm Akash Barik</h1>  
 <h3 align="center">Passionate Frontend Developer | React Enthusiast</h3>  
 
-<p align="center" width="100%">
-  <a href="https://github.com/akash01974?tab=followers">
-    <img src="https://img.shields.io/github/followers/akash01974?color=grey&logo=github&style=flat" alt="Followers" align="left"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=akash01974&label=Profile%20Views&color=grey&style=flat" alt="Profile Views" align="right"/>
-</p>
-
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=akash01974&label=Profile%20Views&color=grey&style=flat" alt="Profile Views" />
-</p>
-
- 
+<p align="center" width="100%">  
+  <a href="https://github.com/akash01974?tab=followers">  
+    <img src="https://img.shields.io/github/followers/akash01974?color=white&logo=github&style=flat&label=Followers" alt="Followers" style="background-color: #007bff; border-radius: 5px;" align="left"/>  
+  </a>  
+  <span style="background-color: #007bff; border-radius: 5px; padding: 5px 10px; color: white;">Profile Views: 127</span>  
+</p>  
 
 ### 🌐 Connect with Me:  
 <p align="center">  
@@ -26,57 +19,57 @@
   <a href="mailto:akashbarik@example.com" target="_blank">  
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="40" />  
   </a>  
-</p>
+</p>  
 
----
+---  
 
 ## 🛠️ Languages and Tools  
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,figma,ps,ai" alt="Languages and Tools" />  
 </p>  
 
----
+---  
 
 ## 📊 GitHub Stats  
-<p align="center">
+<p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=akash01974&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Akash Barik's GitHub Stats" width="48%" />  
-</p>
+</p>  
 
----
+---  
 
 ## 🔥 Current Streak  
-<p align="center">
+<p align="center">  
   <img src="https://nirzak-streak-stats.vercel.app/?user=akash01974&theme=dark&hide_border=false" alt="Current Streak" width="48%" />  
-</p>
+</p>  
 
----
+---  
 
 ## 🎯 Most Used Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash01974&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />
-</p>
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash01974&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />  
+</p>  
 
----
+---  
 
 ## 🏆 GitHub Trophies  
 <p align="center">  
   <img src="https://github-profile-trophy.vercel.app/?username=akash01974&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />  
 </p>  
 
----
+---  
 
 ### ✍️ Random Dev Quote  
 <p align="center">  
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />  
 </p>  
 
----
+---  
 
 ### 🔝 Top Contributed Repo  
 <p align="center">  
   <img src="https://github-contributor-stats.vercel.app/api?username=akash01974&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />  
 </p>  
 
----
+---  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
