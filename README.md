@@ -44,7 +44,7 @@
 
 <br>
 
-<p align="center"> 
+<p align="left"> 
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" />  
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" />  
