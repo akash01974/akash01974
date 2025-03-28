@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akash Barik</h1>  
 <h3 align="center">Passionate Frontend Developer | React Enthusiast</h3>  
 
-<p align="center" width="100%">  
+<p align="right">   
   <a href="https://github.com/akash01974?tab=followers">  
-    <span style="background-color: #007bff; border-radius: 5px; padding: 5px 15px; color: white;">Followers: 1</span>  
+    <img src="https://img.shields.io/github/followers/akash01974?color=grey&logo=github&style=flat" alt="Followers" />
   </a>  
-  <span style="background-color: #007bff; border-radius: 5px; padding: 5px 15px; color: white; margin-left: 10px;">Profile Views: 127</span>  
+  <img src="https://komarev.com/ghpvc/?username=akash01974&label=Profile%20Views&color=grey&style=flat" alt="Profile Views" />
 </p>
+
 
 ### 🌐 Connect with Me:  
 <p align="center">  
