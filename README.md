@@ -126,22 +126,19 @@
 
 ---
 
-<br>
-
-<p align="center">
-  <img src="https://github.com/akash01974/akash01974/blob/output/github-snake-dark.svg" alt="snake gif" />
-</p>
-
-<br>
-
----
 
 ## 🔝 Top Contributed Repo  
+
+<br>
 
 <p align="center">  
   <img src="https://github-contributor-stats.vercel.app/api?username=akash01974&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />  
 </p>  
 
 <br>
+
+---
+
+![snake gif](https://github.com/akash01974/akash01974/blob/output/github-snake-dark.svg)
 
 ---
