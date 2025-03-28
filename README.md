@@ -3,13 +3,14 @@
 
 <p align="center">
   <a href="https://github.com/akash01974?tab=followers">  
-    <img src="https://img.shields.io/github/followers/akash01974?color=grey&logo=github&style=flat&labelColor=20232A" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/akash01974?color=grey&logo=github&style=flat&labelColor=2D333B" alt="Followers" />
   </a>  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/akash01974">
-    <img src="https://img.shields.io/badge/Profile%20Views-172-grey?style=flat&logo=github&labelColor=20232A" alt="Profile Views" />
+    <img src="https://img.shields.io/badge/Profile%20Views-172-grey?style=flat&logo=github&labelColor=2D333B" alt="Profile Views" />
   </a>
 </p>
+
 
 
 
