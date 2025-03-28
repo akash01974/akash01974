@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Barik</h1>  
-<h3 align="center">A student with great ambition...</h3> 
+<h3 align="center">Passionate Frontend Developer | React Enthusiast</h3>  
 
 ### 🌐 Connect with Me:  
 <p align="center">  
@@ -65,10 +65,9 @@
 
 ---
 
-<p align="center">  
-  <a href="https://visitcount.itsvg.in">  
-    <img src="https://visitcount.itsvg.in/api?id=akash01974&icon=0&color=0" alt="Profile Views">  
-  </a>  
+## 👀 Profile Views  
+<p align="left">   
+  <img src="https://komarev.com/ghpvc/?username=akash01974&label=Profile%20views&color=181a1b&style=flat" alt="akash01974" />   
 </p>  
 
 ---
