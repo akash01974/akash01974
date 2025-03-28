@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Frontend Developer | React Enthusiast</h3>  
 
 <p align="center">
-  <div style="display: flex; justify-content: center; gap: 15px;">
+  <div style="display: flex; justify-content: center; gap: 15000px;">
     <a href="https://github.com/akash01974?tab=followers">  
       <img src="https://img.shields.io/github/followers/akash01974?color=grey&logo=github&style=flat" alt="Followers" />
     </a>  
