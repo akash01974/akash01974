@@ -2,7 +2,10 @@
 <h3 align="center">Passionate Frontend Developer | React Enthusiast</h3>  
 
 <p align="right">   
-  <img src="https://komarev.com/ghpvc/?username=akash01974&label=Profile%20Views&color=blue&style=flat" alt="akash01974" />   
+  <a href="https://github.com/akash01974?tab=followers">  
+    <img src="https://img.shields.io/github/followers/akash01974?color=green&logo=github&style=flat" alt="Followers" />  
+  </a>  
+  <img src="https://komarev.com/ghpvc/?username=akash01974&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />   
 </p>  
 
 ### 🌐 Connect with Me:  
