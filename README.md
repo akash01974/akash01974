@@ -12,7 +12,11 @@
   <a href="mailto:akashbarik@example.com" target="_blank">  
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" />  
   </a>  
+  <a href="mailto:akashbarik@example.com" target="_blank">  
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />  
+  </a>  
 </p>  
+
 
 ---
 
