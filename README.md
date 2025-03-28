@@ -119,15 +119,13 @@
 <br>
 
 <p align="center">  
-  <div style="width:100%">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-  </div>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />  
 </p>  
 
 <br>
 
-
 ---
+
 
 ## 🔝 Top Contributed Repo  
 
