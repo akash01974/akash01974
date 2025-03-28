@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash Barik</h1>  
+<h1 align="center">Hi 👋, I'm Akash</h1>  
 
 <h3 align="center">I'm a student with big ambitions, always eager to learn, create, and innovate! 💻 I love coding, exploring UI/UX design 🖌️, and bringing ideas to life through graphic design 🎨.</h3>  
 
