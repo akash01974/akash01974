@@ -3,10 +3,14 @@
 
 <p align="center">   
   <a href="https://github.com/akash01974?tab=followers">  
-    <img src="https://img.shields.io/github/followers/akash01974?color=grey&logo=github&style=flat" alt="Followers" />
+    <span style="margin-right: 10px;">  
+      <img src="https://img.shields.io/github/followers/akash01974?color=grey&logo=github&style=flat" alt="Followers" />  
+    </span>  
   </a>  
-  <img src="https://komarev.com/ghpvc/?username=akash01974&label=Profile%20Views&color=grey&style=flat" alt="Profile Views" />
-</p>
+  <span>  
+    <img src="https://komarev.com/ghpvc/?username=akash01974&label=Profile%20Views&color=grey&style=flat" alt="Profile Views" />  
+  </span>  
+</p>  
 
 
 ### 🌐 Connect with Me:  
