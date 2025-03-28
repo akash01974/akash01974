@@ -2,11 +2,8 @@
 <h3 align="center">Passionate Web Developer | React Enthusiast | Creative Designer</h3>  
 
 <p align="center">  
-  <a href="https://github.com/akash01974?tab=followers">  
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/akash01974?color=green&logo=github">  
-  </a>  
   <a href="https://visitcount.itsvg.in">  
-    <img src="https://visitcount.itsvg.in/api?id=akash01974&icon=0&color=1" alt="Profile Views">  
+    <img src="https://visitcount.itsvg.in/api?id=akash01974&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Profile Views">  
   </a>  
 </p>  
 
@@ -22,7 +19,7 @@ I'm a creative web developer with a passion for building innovative digital solu
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />  
   </a>  
   <a href="mailto:akashbarik@example.com" target="_blank">  
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="30" width="40" />  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282020%29.svg" alt="Email" height="30" width="40" />  
   </a>  
 </p>  
 
@@ -41,7 +38,7 @@ I'm a creative web developer with a passion for building innovative digital solu
 ### 📈 GitHub Analytics  
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=akash01974&show_icons=true&theme=dark&hide_border=false&include_all_commits=true" alt="GitHub Stats" width="48%" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash01974&theme=dark&hide_border=false" alt="GitHub Streak" width="48%" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash01974&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%" />  
 </p>  
 
 ### 🏆 GitHub Trophies  
