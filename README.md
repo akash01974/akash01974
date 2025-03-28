@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">A student with great Ambition...</h3>
+<h3 align="center">A student with great Ambition</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash01974&label=Profile%20views&color=181a1b&style=flat" alt="akash01974" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash01974" alt="akash01974" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=akash01974&theme=darkhub" alt="akash01974" />
+  </a> 
+</p>
 
 - 🔭 I’m currently working on [ChatBot](pbc-chat-bot.vercel.app/)
 
@@ -11,7 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/akash.barik001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash.barik001" height="30" width="40" /></a>
+<a href="https://instagram.com/akash.barik001" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash.barik001" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -48,8 +54,8 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash01974&show_icons=true&theme=radical&locale=en&layout=compact" alt="akash01974" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash01974&show_icons=true&theme=dark&locale=en&layout=compact" alt="akash01974" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash01974&show_icons=true&theme=radical&locale=en" alt="Akash's GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash01974&show_icons=true&theme=dark&locale=en" alt="akash01974" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash01974&theme=radical" alt="akash01974" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash01974&theme=dark" alt="akash01974" /></p>
