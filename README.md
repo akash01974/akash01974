@@ -139,3 +139,6 @@
 
 ---
 
+![snake gif](https://github.com/akash01974/akash01974/blob/output/github-snake-dark.svg)
+
+---
