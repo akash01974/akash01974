@@ -13,10 +13,10 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on [ChatBot](https://pbc-chat-bot.vercel.app/)
-- 📫 How to reach me **akashbarik01974@gmail.com**
+- 👯 How to reach me **akashbarik01974@gmail.com**
 
 ### 🌐 Connect with Me:
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/akash-barik-06245634a/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -26,7 +26,7 @@
 </p>
 
 ### 🛠️ Languages and Tools:
-<p align="left">  
+<p align="center">  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /> 
   </a> 
@@ -60,26 +60,32 @@
 </p>
 
 ### 📊 GitHub Stats:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash01974&show_icons=true&theme=dark&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash01974&show_icons=true&theme=dark&layout=compact" alt="Top Languages" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akash01974&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akash01974&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://nirzak-streak-stats.vercel.app/?user=akash01974&theme=dark&hide_border=false" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=akash01974&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
+</p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=akash01974&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=akash01974&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=akash01974&icon=0&color=9)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=akash01974&icon=0&color=9" alt="Profile Visit Count"/>
+</p>
 
 <picture>  
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akash01974/akash01974/output/github-snake-dark.svg" />  
