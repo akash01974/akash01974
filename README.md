@@ -10,8 +10,15 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />  
   </a>  
   <a href="mailto:akashbarik@example.com" target="_blank">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282020%29.svg" alt="Email" height="30" width="40" />  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" alt="Gmail" height="30" width="40" />  
   </a>  
+</p>  
+
+---
+
+## 🛠️ Languages and Tools  
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,figma,ps,ai" alt="Languages and Tools" />  
 </p>  
 
 ---
