@@ -43,7 +43,7 @@ I'm a creative web developer with a passion for building innovative digital solu
 
 ### 🏆 GitHub Trophies  
 <p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=akash01974&theme=dark_lover&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />  
+  <img src="https://github-profile-trophy.vercel.app/?username=akash01974&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />  
 </p>  
 
 ### 📊 Most Used Languages  
