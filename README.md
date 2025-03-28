@@ -14,7 +14,6 @@
   </a>  
 </p>
 
-
 ---
 
 ## 🛠️ Languages and Tools  
@@ -27,10 +26,6 @@
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akash01974&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Akash Barik's GitHub Stats" width="48%" />  
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=akash01974&theme=dark&hide_border=false" alt="GitHub Streak" width="48%" />  
 </p>
 
 ---
