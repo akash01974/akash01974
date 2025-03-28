@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Akash Barik</h1>  
 <h3 align="center">Passionate Frontend Developer | React Enthusiast</h3>  
 
+<p align="right">   
+  <img src="https://komarev.com/ghpvc/?username=akash01974&label=Profile%20Views&color=blue&style=flat" alt="akash01974" />   
+</p>  
+
 ### 🌐 Connect with Me:  
 <p align="center">  
   <a href="https://www.linkedin.com/in/akash-barik-06245634a/" target="_blank">  
@@ -61,13 +65,6 @@
 ### 🔝 Top Contributed Repo  
 <p align="center">  
   <img src="https://github-contributor-stats.vercel.app/api?username=akash01974&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />  
-</p>  
-
----
-
-## 👀 Profile Views  
-<p align="left">   
-  <img src="https://komarev.com/ghpvc/?username=akash01974&label=Profile%20views&color=181a1b&style=flat" alt="akash01974" />   
 </p>  
 
 ---
