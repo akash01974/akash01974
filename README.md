@@ -3,10 +3,17 @@
 
 <p align="center" width="100%">
   <a href="https://github.com/akash01974?tab=followers">
-    <img src="https://img.shields.io/github/followers/akash01974?label=Followers&style=flat-square&logo=github&labelColor=grey&color=blue" alt="Followers" align="left"/>
+    <img src="https://img.shields.io/github/followers/akash01974?color=grey&logo=github&style=flat" alt="Followers" align="left"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=akash01974&label=Profile Views&style=flat-square&labelColor=grey&color=blue" alt="Profile Views" align="right"/>
+  <img src="https://komarev.com/ghpvc/?username=akash01974&label=Profile%20Views&color=grey&style=flat" alt="Profile Views" align="right"/>
 </p>
+
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=akash01974&label=Profile%20Views&color=grey&style=flat" alt="Profile Views" />
+</p>
+
+ 
 
 ### 🌐 Connect with Me:  
 <p align="center">  
