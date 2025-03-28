@@ -10,7 +10,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />  
   </a>  
   <a href="mailto:akashbarik@example.com" target="_blank">  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Google_%2B_Gmail_Logo.svg" alt="Email" height="30" width="40" />  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Google_Gmail_logo.svg" alt="Email" height="30" width="40" />  
   </a>  
 </p>  
 
@@ -54,6 +54,10 @@
 <h2 align="center">📊 GitHub Stats</h2>  
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=akash01974&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />  
+</p>  
+
+<p align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash01974&theme=dark&hide_border=false" alt="GitHub Streak" />  
 </p>  
 
 ---  
