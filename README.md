@@ -1,14 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Barik</h1>  
-<h3 align="center">Passionate Web Developer | React Enthusiast | Creative Designer</h3>  
-
-<p align="center">  
-  <a href="https://visitcount.itsvg.in">  
-    <img src="https://visitcount.itsvg.in/api?id=akash01974&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Profile Views">  
-  </a>  
-</p>  
-
-### 🚀 About Me  
-I'm a creative web developer with a passion for building innovative digital solutions. Combining technical skills with design creativity, I transform ideas into elegant, user-friendly web experiences.  
+<h3 align="center">Passionate Frontend Developer | React Enthusiast</h3>  
 
 ### 🌐 Connect with Me:  
 <p align="center">  
@@ -23,45 +14,47 @@ I'm a creative web developer with a passion for building innovative digital solu
   </a>  
 </p>  
 
-### 🛠️ Tech Stack  
+---
+
+## 📊 GitHub Stats:  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akash01974&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="48%" />  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=akash01974&theme=dark&hide_border=false" alt="GitHub Streak" width="48%" />  
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash01974&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,figma,ps,ai" alt="Tech Stack" />  
+  <img src="https://github-profile-trophy.vercel.app/?username=akash01974&theme=dark&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />  
 </p>  
 
-### 💻 Current Focus  
-- 🌱 Learning Advanced React Techniques  
-- 🔭 Exploring Full-Stack Development  
-- 🎨 Improving Design Skills  
+---
 
----  
-
-### 📈 GitHub Analytics  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=akash01974&show_icons=true&theme=dark&hide_border=false&include_all_commits=true" alt="GitHub Stats" width="48%" />  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash01974&theme=dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="48%" />  
-</p>  
-
-### 🏆 GitHub Trophies  
-<p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=akash01974&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />  
-</p>  
-
-### 📊 Most Used Languages  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash01974&show_icons=true&theme=dark&layout=compact" alt="Top Languages" />  
-</p>  
-
-### ✍️ Dev Inspiration  
+### ✍️ Random Dev Quote  
 <p align="center">  
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />  
 </p>  
 
----  
+---
 
+### 🔝 Top Contributed Repo  
 <p align="center">  
-  <img src="https://raw.githubusercontent.com/akash01974/akash01974/output/github-snake-dark.svg" alt="Snake Animation" />  
+  <img src="https://github-contributor-stats.vercel.app/api?username=akash01974&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />  
 </p>  
 
+---
+
 <p align="center">  
-  <strong>⚡ Built with passion, powered by creativity ⚡</strong>  
+  <a href="https://visitcount.itsvg.in">  
+    <img src="https://visitcount.itsvg.in/api?id=akash01974&icon=0&color=0" alt="Profile Views">  
+  </a>  
 </p>  
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
