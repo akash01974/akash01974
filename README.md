@@ -3,10 +3,10 @@
 
 <p align="center">
   <a href="https://github.com/akash01974?tab=followers">  
-    <img src="https://img.shields.io/github/followers/akash01974?color=grey&logo=github&style=flat&labelColor=1E1E1E" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/akash01974?color=grey&logo=github&style=flat&labelColor=20232A" alt="Followers" />
   </a>  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=akash01974&label=Profile%20Views&color=grey&style=flat&labelColor=1E1E1E" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=akash01974&label=Profile%20Views&color=grey&style=flat&labelColor=20232A" alt="Profile Views" />
 </p>
 
 
