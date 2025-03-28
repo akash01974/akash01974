@@ -3,7 +3,7 @@
 
 <p align="center">   
   <a href="https://github.com/akash01974?tab=followers">  
-    <span style="margin-right: 10px;">  
+    <span style="margin-right: 1000px;">  
       <img src="https://img.shields.io/github/followers/akash01974?color=grey&logo=github&style=flat" alt="Followers" />  
     </span>  
   </a>  
