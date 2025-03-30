@@ -31,7 +31,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />  
   </a>  
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:akashbarik01947@gmail.com" target="_blank">  
+  <a href="mailto:akashbarik01974@gmail.com" target="_blank">  
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="40" />  
   </a>  
 </p>  
